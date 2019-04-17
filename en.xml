@@ -1,0 +1,2269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ 
+  <data name="page_common_title" xml:space="preserve">
+    <value>LOCUS Medical Image Cloud Platform</value>
+  </data>
+  <data name="menu_changepass" xml:space="preserve">
+    <value>Change password</value>
+  </data>
+  <data name="menu_consult" xml:space="preserve">
+    <value>Consultation</value>
+  </data>
+  <data name="menu_cooperate" xml:space="preserve">
+    <value>Collaboration</value>
+  </data>
+  <data name="menu_dicmanage" xml:space="preserve">
+    <value>Basic info</value>
+  </data>
+  <data name="menu_dicmanage_Checkitem" xml:space="preserve">
+    <value>Check items</value>
+  </data>
+  <data name="menu_dicmanage_Department" xml:space="preserve">
+    <value>Departments</value>
+  </data>
+  <data name="menu_dicmanage_Facility" xml:space="preserve">
+    <value>Facilities</value>
+  </data>
+  <data name="menu_dicmanage_HospitalLevel" xml:space="preserve">
+    <value>Hospital level</value>
+  </data>
+  <data name="menu_dicmanage_TitlePost" xml:space="preserve">
+    <value>Titles</value>
+  </data>
+  <data name="menu_doctorhome" xml:space="preserve">
+    <value>Doctors homepage</value>
+  </data>
+  <data name="menu_doctormanage" xml:space="preserve">
+    <value>Doctors</value>
+  </data>
+  <data name="menu_guide" xml:space="preserve">
+    <value>User guide</value>
+  </data>
+  <data name="menu_hospitalhome" xml:space="preserve">
+    <value>Hospital homepage</value>
+  </data>
+  <data name="menu_hospitalmanage" xml:space="preserve">
+    <value>Hospitals</value>
+  </data>
+  <data name="menu_log" xml:space="preserve">
+    <value>Logs</value>
+  </data>
+  <data name="menu_logout" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="menu_log_operate" xml:space="preserve">
+    <value>Operation log</value>
+  </data>
+  <data name="menu_log_sys" xml:space="preserve">
+    <value>System log</value>
+  </data>
+  <data name="menu_patientmanage" xml:space="preserve">
+    <value>Patients</value>
+  </data>
+  <data name="menu_receiveconsult" xml:space="preserve">
+    <value>Received</value>
+  </data>
+  <data name="menu_receivecooperate" xml:space="preserve">
+    <value>Received</value>
+  </data>
+  <data name="menu_selfdoctormanage" xml:space="preserve">
+    <value>Our doctors</value>
+  </data>
+  <data name="menu_sentconsult" xml:space="preserve">
+    <value>Initiated</value>
+  </data>
+  <data name="menu_sentcooperate" xml:space="preserve">
+    <value>Sent</value>
+  </data>
+  <data name="menu_setting" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="menu_subhospitalmanage" xml:space="preserve">
+    <value>Related hospital management</value>
+  </data>
+  <data name="menu_superadminhome" xml:space="preserve">
+    <value>Homepage</value>
+  </data>
+  <data name="alert_homelogin_failupper" xml:space="preserve">
+    <value>Retry time is over, please contact administrator</value>
+  </data>
+  <data name="alert_homelogin_originalpassfail" xml:space="preserve">
+    <value>Password validation failure</value>
+  </data>
+  <data name="alert_homelogin_validatefail" xml:space="preserve">
+    <value>Validation code error</value>
+  </data>
+  <data name="page_homelogin_subtitle" xml:space="preserve">
+    <value> Professional,Internatinal&Efficient;</value>
+  </data>
+  <data name="page_homefooter_help" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="page_homefooter_issue" xml:space="preserve">
+    <value>Terms</value>
+  </data
+  <data name="page_homefooter_private" xml:space="preserve">
+    <value>Privacy</value>
+  </data>
+  <data name="page_homefooter_title" xml:space="preserve">
+    <value>Copyright©    2019 Locus Medical All Rights Reserved.</value>
+  </data>
+  <data name="page_homelogin_forgetpass" xml:space="preserve">
+    <value>Forgot password</value>
+  </data>
+  <data name="page_homelogin_loginauto" xml:space="preserve">
+    <value>Remember me</value>
+  </data>
+  <data name="btn_homelogin_loginbtn" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="page_homelogin_txtpass" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="page_homelogin_txtuser" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="page_homelogin_txtvalicode" xml:space="preserve">
+    <value>Validation code</value>
+  </data>
+  <data name="alert_homelogin_passwordempty" xml:space="preserve">
+    <value>Password is required</value>
+  </data>
+  <data name="alert_homelogin_usernameempty" xml:space="preserve">
+    <value>Username is required</value>
+  </data>
+  <data name="alert_homelogin_validateempty" xml:space="preserve">
+    <value>Verification code is required</value>
+  </data>
+  <data name="alert_homelogin_status" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="alert_error_subtitle" xml:space="preserve">
+    <value>Login failed.</value>
+  </data>
+  <data name="page_homeerror_title" xml:space="preserve">
+    <value>Please contact administrator for more info.</value>
+  </data>
+  <data name="page_homeforget_title" xml:space="preserve">
+    <value>Systme error</value>
+  </data>
+  <data name="alert_homelogin_phoneempty" xml:space="preserve">
+    <value>Forgot password</value>
+  </data>
+  <data name="btn_homeforget_getsmscode" xml:space="preserve">
+    <value>Phone number is required</value>
+  </data>
+  <data name="btn_submit" xml:space="preserve">
+    <value>SMS verification code</value>
+  </data>
+  <data name="page_homeforget_back" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="alert_homeforget_phoneformat" xml:space="preserve">
+    <value>Return to login page</value>
+  </data>
+  <data name="page_homeforget_phoneResetpassword" xml:space="preserve">
+    <value>Please fill in correct phone number</value>
+  </data>
+  <data name="page_homeforget_retry" xml:space="preserve">
+    <value>Reset password with your phone number</value>
+  </data>
+  <data name="alert_homeforget_phonenotfind" xml:space="preserve">
+    <value>Phone number must be 11 digits</value>
+  </data>
+  <data name="alert_homeforget_smsreminder" xml:space="preserve">
+    <value>Please pay attention for SMS notification</value>
+  </data>
+  <data name="alert_homelogin_badrequest" xml:space="preserve">
+    <value>Can not find the phone number</value>
+  </data>
+  <data name="page_homeforget_txtphone" xml:space="preserve">
+    <value>Be aware of the message</value>
+  </data>
+  <data name="page_homeerror_subtitle" xml:space="preserve">
+    <value>False request</value>
+  </data>
+  <data name="alert_homesendsms_failupper" xml:space="preserve">
+    <value>Please contact the administrator</value>
+  </data>
+  <data name="alert_common_title" xml:space="preserve">
+    <value>failed several times. Please contact administrator</value>
+  </data>
+  <data name="send_homeforget_content" xml:space="preserve">
+    <value>Your password has been reset, the new password is {0}. Please use your new password to login</value>
+  </data>
+  <data name="send_homeforget_title" xml:space="preserve">
+    <value>Locus web password reset</value>
+  </data>
+  <data name="common_all" xml:space="preserve">
+    <value>ALL</value>
+  </data>
+  <data name="page_superadminindex_consultvolume" xml:space="preserve">
+    <value>Consultations</value>
+  </data>
+  <data name="page_superadminindex_application" xml:space="preserve">
+    <value>Applications</value>
+  </data>
+  <data name="page_superadminindex_day" xml:space="preserve">
+    <value>Week</value>
+  </data>
+  <data name="page_superadminindex_year" xml:space="preserve">
+    <value>Year</value>
+  </data>
+  <data name="page_superadminindex_ranking" xml:space="preserve">
+    <value>Top 10 Consultations</value>
+  </data>
+  <data name="page_superadminindex_trend" xml:space="preserve">
+    <value>Consultation trend</value>
+  </data>
+  <data name="page_superadminindex_feestatistics" xml:space="preserve">
+    <value>Consultation costs</value>
+  </data>
+  <data name="page_superadminindex_check" xml:space="preserve">
+    <value>Check items</value>
+  </data>
+  <data name="page_superadminindex_equipment" xml:space="preserve">
+    <value>Facilities</value>
+  </data>
+  <data name="page_superadminindex_ratio" xml:space="preserve">
+    <value>Category ratio</value>
+  </data>
+  <data name="page_superadminindex_pictotal" xml:space="preserve">
+    <value>Total cost</value>
+  </data>
+  <data name="page_superadminindex_cloud" xml:space="preserve">
+    <value>Cloud </value>
+  </data>
+  <data name="page_superadminindex_picVideo" xml:space="preserve">
+    <value>Video conference</value>
+  </data>
+  <data name="page_superadminindex_picbase" xml:space="preserve">
+    <value>Basic fee</value>
+  </data>
+  <data name="page_superadminindex_videoduration" xml:space="preserve">
+    <value>Video duration</value>
+  </data>
+  <data name="page_superadminindex_hospname" xml:space="preserve">
+    <value>Hospital</value>
+  </data>
+  <data name="page_superadminindex_admin" xml:space="preserve">
+    <value>Platform administrator</value>
+  </data>
+  <data name="page_superadminindex_hospital" xml:space="preserve">
+    <value>Hospital</value>
+  </data>
+  <data name="page_superadminindex_doctor" xml:space="preserve">
+    <value>Doctor</value>
+  </data>
+  <data name="page_superadminindex_fees" xml:space="preserve">
+    <value>Fees</value>
+  </data>
+  <data name="common_yuan" xml:space="preserve">
+    <value>￥</value>
+  </data>
+  <data name="common_pager_previouspage" xml:space="preserve">
+    <value>Previous page</value>
+  </data>
+  <data name="common_pager_nextpage" xml:space="preserve">
+    <value>Next page</value>
+  </data>
+  <data name="page_superadminindex_statistics" xml:space="preserve">
+    <value>Statistics</value>
+  </data>
+  <data name="page_superadminindex_eachconsultation" xml:space="preserve">
+    <value>Fees for each consultation</value>
+  </data>
+  <data name="page_superadminindex_eachminute" xml:space="preserve">
+    <value>Two-way charge per minute</value>
+  </data>
+  <data name="page_superadminindex_servercloud" xml:space="preserve">
+    <value>Cloud server leasing + Cloud PACS guarantee</value>
+  </data>
+  <data name="common_month" xml:space="preserve">
+    <value>Month</value>
+  </data>
+  <data name="page_mainpagetopmessage_center" xml:space="preserve">
+    <value>Personal center</value>
+  </data>
+  <data name="page_mainpagetopmessage_logout" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="page_mainpagetopmaeeage_alertmessage" xml:space="preserve">
+    <value>Messages</value>
+  </data>
+  <data name="page_mainpagetopmessage_warnings" xml:space="preserve">
+    <value>View all warnings</value>
+  </data>
+  <data name="common_minute" xml:space="preserve">
+    <value>Minute</value>
+  </data>
+  <data name="page_superadminindex_hope" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="page_superadminindex_morning" xml:space="preserve">
+    <value>Hello</value>
+  </data>
+  <data name="page_superadminindex_afternoon" xml:space="preserve">
+    <value>Hello</value>
+  </data>
+  <data name="page_superadminindex_noon" xml:space="preserve">
+    <value>Hello</value>
+  </data>
+  <data name="page_superadminindex_evening" xml:space="preserve">
+    <value>Hello</value>
+  </data>
+  <data name="page_superadminindex_waitconsultvolume" xml:space="preserve">
+    <value>Consultation requests</value>
+  </data>
+  <data name="page_superadminindex_coordinated" xml:space="preserve">
+    <value>Collaboration requests</value>
+  </data>
+  <data name="title_homelogin" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="title_homeforget" xml:space="preserve">
+    <value>Find password</value>
+  </data>
+  <data name="title_homeerror" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="title_superadminhome" xml:space="preserve">
+    <value>Admin homepage</value>
+  </data>
+  <data name="title_hospitalhome" xml:space="preserve">
+    <value>Hospital homepage</value>
+  </data>
+  <data name="title_doctorhome" xml:space="preserve">
+    <value>Doctor homepage</value>
+  </data>
+  <data name="title_hospitallist" xml:space="preserve">
+    <value>Hospital managment</value>
+  </data>
+  <data name="title_hospitaldetail" xml:space="preserve">
+    <value>Hospital detail</value>
+  </data>
+  <data name="page_hospitallist_name" xml:space="preserve">
+    <value>Hospital name</value>
+  </data>
+  <data name="list_valid" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="page_hospitallist_level" xml:space="preserve">
+    <value>Level</value>
+  </data>
+  <data name="btn_query" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="btn_reset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="btn_create" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="page_hospitallist_statustext" xml:space="preserve">
+    <value>Selected {0} Hospital. Total services {1}</value>
+  </data>
+  <data name="btn_clear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="list_createtime" xml:space="preserve">
+    <value>Initiated date</value>
+  </data>
+  <data name="list_operate" xml:space="preserve">
+    <value>Operation</value>
+  </data>
+  <data name="list_valid_normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="list_valid_disabled" xml:space="preserve">
+    <value>Disabled</value>
+  </data>
+  <data name="title_homenotallowed" xml:space="preserve">
+    <value>No permission</value>
+  </data>
+  <data name="page_hospitaldetails_statusdoctortext" xml:space="preserve">
+    <value>Selected {0} Doctor. Total services {1}</value>
+  </data>
+  <data name="alert_common_nopermission" xml:space="preserve">
+    <value>Operation failure</value>
+  </data>
+  <data name="alert_common_dbfail" xml:space="preserve">
+    <value>No permission</value>
+  </data>
+  <data name="common_pager_total" xml:space="preserve">
+    <value>Total {0}</value>
+  </data>
+  <data name="list_doctorname" xml:space="preserve">
+    <value>Doctor name</value>
+  </data>
+  <data name="list_depart" xml:space="preserve">
+    <value>Department</value>
+  </data>
+  <data name="list_post" xml:space="preserve">
+    <value>Job title</value>
+  </data>
+  <data name="list_hospital" xml:space="preserve">
+    <value>Hospital</value>
+  </data>
+  <data name="page_doctordoctordetails_phone" xml:space="preserve">
+    <value>Phone No.</value>
+  </data>
+  <data name="page_doctordoctordetails_email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="page_doctordoctordetails_userinfo" xml:space="preserve">
+    <value>User info</value>
+  </data>
+  <data name="page_doctordoctordetails_fee" xml:space="preserve">
+    <value>Fee</value>
+  </data>
+  <data name="page_doctordoctordetails_feetotal" xml:space="preserve">
+    <value>Income</value>
+  </data>
+  <data name="page_doctordoctordetails_feeprop" xml:space="preserve">
+    <value>Outpatient ratio</value>
+  </data>
+  <data name="page_doctordoctordetails_resume" xml:space="preserve">
+    <value>Resume</value>
+  </data>
+  <data name="page_doctordoctordetails_login" xml:space="preserve">
+    <value>Login name</value>
+  </data>
+  <data name="page_doctordoctordetails_password" xml:space="preserve">
+    <value>Login password</value>
+  </data>
+  <data name="page_doctorcreate_idnumber" xml:space="preserve">
+    <value>ID number</value>
+  </data>
+  <data name="page_doctorcreate_information" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="page_doctorcreate_assignment" xml:space="preserve">
+    <value>User</value>
+  </data>
+  <data name="page_doctorcreate_image" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="alert_doctorcreate_name" xml:space="preserve">
+    <value>Name cannot be empty</value>
+  </data>
+  <data name="alert_doctorcreate_hospital" xml:space="preserve">
+    <value>Please choose a hospital</value>
+  </data>
+  <data name="alert_doctorcreate_department" xml:space="preserve">
+    <value>Please select the department</value>
+  </data>
+  <data name="alert_doctorcreate_posttitle" xml:space="preserve">
+    <value>Please choose a title</value>
+  </data>
+  <data name="alert_doctorcreate_idnum" xml:space="preserve">
+    <value>ID number cannot be empty</value>
+  </data>
+  <data name="alert_doctorcreate_idnumformat" xml:space="preserve">
+    <value>ID card number format error</value>
+  </data>
+  <data name="alert_doctorcreate_areaphone" xml:space="preserve">
+    <value>Mobile area code cannot be empty</value>
+  </data>
+  <data name="alert_doctorcreate_phone" xml:space="preserve">
+    <value>Phone number can not be empty</value>
+  </data>
+  <data name="alert_doctorcreate_email" xml:space="preserve">
+    <value>E-mail can not be empty</value>
+  </data>
+  <data name="alert_doctorcreate_resume" xml:space="preserve">
+    <value>Resume cannot be empty</value>
+  </data>
+  <data name="alert_doctorcreate_pic" xml:space="preserve">
+    <value>The Image cannot be empty</value>
+  </data>
+  <data name="alert_doctorcreate_certificate" xml:space="preserve">
+    <value>Certificate cannot be empty</value>
+  </data>
+  <data name="alert_doctorcreate_fee" xml:space="preserve">
+    <value>Fees cannot be empty</value>
+  </data>
+  <data name="alert_doctorcreate_feeratio" xml:space="preserve">
+    <value>The proporation of outpatients can not be empty</value>
+  </data>
+  <data name="page_doctorcreate_img" xml:space="preserve">
+    <value>Image</value>
+  </data>
+  <data name="btn_doctorcreate_next" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="page_doctorcreate_cert" xml:space="preserve">
+    <value>Qualification certificate</value>
+  </data>
+  <data name="alert_doctorcreate_loginname" xml:space="preserve">
+    <value>Login name cannot be empty</value>
+  </data>
+  <data name="alert_doctorcreate_password" xml:space="preserve">
+    <value>Please enter 8-20 alphanumeric password</value>
+  </data>
+  <data name="alert_doctorcreate_emailformat" xml:space="preserve">
+    <value>E-mail format is incorrect</value>
+  </data>
+  <data name="common_back" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="page_hospitalcreate_organcode" xml:space="preserve">
+    <value>Org code</value>
+  </data>
+  <data name="page_hospitalcreate_dicomcode" xml:space="preserve">
+    <value>Dicom code</value>
+  </data>
+  <data name="page_hospitalcreate_parhosp" xml:space="preserve">
+    <value>Superior hospital</value>
+  </data>
+  <data name="page_hospitalcreate_area" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="page_hospitalcreate_responsible" xml:space="preserve">
+    <value>Responsible person</value>
+  </data>
+  <data name="page_hospitalcreate_respPhone" xml:space="preserve">
+    <value>Phone no.</value>
+  </data>
+  <data name="page_hospitalcreate_picorgan" xml:space="preserve">
+    <value>Business license</value>
+  </data>
+  <data name="alert_hospitalcreate_hospname" xml:space="preserve">
+    <value>Hospital name cannot be empty</value>
+  </data>
+  <data name="alert_hospitalcreate_hospnamerest" xml:space="preserve">
+    <value>The hospital name already exists.Please re-enter.</value>
+  </data>
+  <data name="alert_hospitalcreate_leve" xml:space="preserve">
+    <value>Please select the hospital level</value>
+  </data>
+  <data name="alert_hospitalcreate_code" xml:space="preserve">
+    <value>Organization code cannot be empty</value>
+  </data>
+  <data name="alert_hospitalcreate_province" xml:space="preserve">
+    <value>Please select province</value>
+  </data>
+  <data name="alert_hospitalcreate_city" xml:space="preserve">
+    <value>Please select city</value>
+  </data>
+  <data name="alert_hospitalcreate_street" xml:space="preserve">
+    <value>Street name cannot be empty</value>
+  </data>
+  <data name="alert_hospitalcreate_person" xml:space="preserve">
+    <value>The responsible person cannot be empty</value>
+  </data>
+  <data name="alert_hosptialcreate_hosprest" xml:space="preserve">
+    <value>The hospital already exists in the option box</value>
+  </data>
+  <data name="alert_common_upload" xml:space="preserve">
+    <value>The file is uploading, please wait</value>
+  </data>
+  <data name="page_hospitaldetails_userinfo" xml:space="preserve">
+    <value>User info</value>
+  </data>
+  <data name="page_hospitaldetails_createdoctor" xml:space="preserve">
+    <value>Add doctor</value>
+  </data>
+  <data name="page_hospitaldetails_createhosp" xml:space="preserve">
+    <value>Add hospital</value>
+  </data>
+  <data name="page_hospitaldetails_sonhosp" xml:space="preserve">
+    <value>Lower hospital</value>
+  </data>
+  <data name="video_sharescreen" xml:space="preserve">
+    <value>Screen sharing</value>
+  </data>
+  <data name="video_needconvid" xml:space="preserve">
+    <value>Please enter conference ID</value>
+  </data>
+  <data name="video_convid" xml:space="preserve">
+    <value>Conference ID</value>
+  </data>
+  <data name="video_initfail" xml:space="preserve">
+    <value>Init fail</value>
+  </data>
+  <data name="video_nodevice" xml:space="preserve">
+    <value>Cannot detect your microphone and camera.</value>
+  </data>
+  <data name="video_btnquit" xml:space="preserve">
+    <value>Quit</value>
+  </data>
+  <data name="video_keepobserve" xml:space="preserve">
+    <value>Join as an observer</value>
+  </data>
+  <data name="video_nodeviceperm" xml:space="preserve">
+    <value>Cannot get permission from camera and microphone</value>
+  </data>
+  <data name="video_nomicroperm" xml:space="preserve">
+    <value>Cannot get permisson from microphone</value>
+  </data>
+  <data name="video_nocameraperm" xml:space="preserve">
+    <value>Cannot get permisson from camera</value>
+  </data>
+  <data name="video_notoken" xml:space="preserve">
+    <value>Token Request failed</value>
+  </data>
+  <data name="video_joinfail" xml:space="preserve">
+    <value>Join failure</value>
+  </data>
+  <data name="video_keepjoin" xml:space="preserve">
+    <value>Joining</value>
+  </data>
+  <data name="video_quitfail" xml:space="preserve">
+    <value>Quit failure</value>
+  </data>
+  <data name="video_joinednocamera" xml:space="preserve">
+    <value>Jion without camera</value>
+  </data>
+  <data name="video_joined" xml:space="preserve">
+    <value>Joined</value>
+  </data>
+  <data name="video_quited" xml:space="preserve">
+    <value>Quit</value>
+  </data>
+  <data name="video_openedcamera" xml:space="preserve">
+    <value>Camera is on</value>
+  </data>
+  <data name="video_closedcamera" xml:space="preserve">
+    <value>Camera is off</value>
+  </data>
+  <data name="video_thereopenedcamera" xml:space="preserve">
+    <value>Microphone is on</value>
+  </data>
+  <data name="video_thereclosedcamera" xml:space="preserve">
+    <value>Microphone if off</value>
+  </data>
+  <data name="video_lost" xml:space="preserve">
+    <value>Lost connection, please try again</value>
+  </data>
+  <data name="video_noboard" xml:space="preserve">
+    <value>No whiteboard available</value>
+  </data>
+  <data name="video_requestboardfail" xml:space="preserve">
+    <value>Request whiteboard failed</value>
+  </data>
+  <data name="video_confirmquitboard" xml:space="preserve">
+    <value>Whiteboard content will be lost, do you want to quit?</value>
+  </data>
+  <data name="video_getboardfail" xml:space="preserve">
+    <value>Request whiteboard failed</value>
+  </data>
+  <data name="video_explorernoshare" xml:space="preserve">
+    <value>Your web explorer doesn't  support screen sharing</value>
+  </data>
+  <data name="video_downplugin" xml:space="preserve">
+    <value>Please download and install plug-ins for screen sharing</value>
+  </data>
+  <data name="video_clickdown" xml:space="preserve">
+    <value>Click to download screen sharing plug-ins</value>
+  </data>
+  <data name="video_noneed" xml:space="preserve">
+    <value>No need</value>
+  </data>
+  <data name="video_sharefail" xml:space="preserve">
+    <value>Open screen sharing failed</value>
+  </data>
+  <data name="video_closesharefail" xml:space="preserve">
+    <value>Close screen sharing failed</value>
+  </data>
+  <data name="video_havejoined" xml:space="preserve">
+    <value>Joined</value>
+  </data>
+  <data name="video_onehere" xml:space="preserve">
+    <value>Only  1 user is online.You can wait or quit</value>
+  </data>
+  <data name="video_waitother" xml:space="preserve">
+    <value>Wait others to join</value>
+  </data>
+  <data name="video_lasted" xml:space="preserve">
+    <value>The end</value>
+  </data>
+  <data name="video_firsted" xml:space="preserve">
+    <value>The first</value>
+  </data>
+  <data name="video_withvoiceonly" xml:space="preserve">
+    <value>Joining with voice only</value>
+  </data>
+  <data name="video_you" xml:space="preserve">
+    <value>You</value>
+  </data>
+  <data name="alert_hospitalcreate_loginrest" xml:space="preserve">
+    <value>Login name already exists</value>
+  </data>
+  <data name="alert_hospitalcreate_picorgan" xml:space="preserve">
+    <value>Business license cannot be empty</value>
+  </data>
+  <data name="alert_hospitalcreate_phoneexist" xml:space="preserve">
+    <value>Mobile number already exists</value>
+  </data>
+  <data name="alert_hospitalcreate_emailexist" xml:space="preserve">
+    <value>The email already exists</value>
+  </data>
+  <data name="alert_doctorcreate_feereg" xml:space="preserve">
+    <value>Fees must be a positive whole number.</value>
+  </data>
+  <data name="alert_hospitalcreate_feeratioreg" xml:space="preserve">
+    <value>Please use numbers from 0 to 100 for fees sharing percentage</value>
+  </data>
+  <data name="alert_homeforget_areaphone" xml:space="preserve">
+    <value>Overseas mobile number is not supported, please contact the administrator</value>
+  </data>
+  <data name="list_classification_name" xml:space="preserve">
+    <value>Classification</value>
+  </data>
+  <data name="list_remarks" xml:space="preserve">
+    <value>Remarks</value>
+  </data>
+  <data name="page_configdepartment_update" xml:space="preserve">
+    <value>Amendment</value>
+  </data>
+  <data name="btn_cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="alert_configdepartment_title" xml:space="preserve">
+    <value>Category name cannot be empty</value>
+  </data>
+  <data name="alert_configdepartment_comment" xml:space="preserve">
+    <value>Remarks cannot be empty</value>
+  </data>
+  <data name="alert_doctorlist_status" xml:space="preserve">
+    <value>Are you sure you want to modify the status?</value>
+  </data>
+  <data name="alert_configdepartment_fail" xml:space="preserve">
+    <value>The modification failed, please contact the administrator</value>
+  </data>
+  <data name="btn_determine" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="page_userlist_statusdisable" xml:space="preserve">
+    <value>Are you sure you want to disable?</value>
+  </data>
+  <data name="page_userlist_statusenable" xml:space="preserve">
+    <value>Are you sure you want to enable?</value>
+  </data>
+  <data name="page_userlist_name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="page_userlist_role" xml:space="preserve">
+    <value>Role</value>
+  </data>
+  <data name="page_userlist_position" xml:space="preserve">
+    <value>Position</value>
+  </data>
+  <data name="page_userlist_system" xml:space="preserve">
+    <value>System administrator</value>
+  </data>
+  <data name="page_userlist_hosprole" xml:space="preserve">
+    <value>Hospital administrator</value>
+  </data>
+  <data name="page_userlist_docrole" xml:space="preserve">
+    <value>Doctor administrator</value>
+  </data>
+  <data name="page_configdepartment_creorup" xml:space="preserve">
+    <value>You are adding or editing</value>
+  </data>
+  <data name="menu_user_list" xml:space="preserve">
+    <value>Account</value>
+  </data>
+  <data name="common_prompt" xml:space="preserve">
+    <value>Developing</value>
+  </data>
+  <data name="page_usercreate_company" xml:space="preserve">
+    <value>Company</value>
+  </data>
+  <data name="page_settiingsetting_safety" xml:space="preserve">
+    <value>Security</value>
+  </data>
+  <data name="page_settingsetting_updatesussace" xml:space="preserve">
+    <value>Successfully modified</value>
+  </data>
+  <data name="page_settingsetting_updateemail" xml:space="preserve">
+    <value>Modify the mailbox binding</value>
+  </data>
+  <data name="page_settingsetting_newemail" xml:space="preserve">
+    <value>New email</value>
+  </data>
+  <data name="page_settingsetting_emailalert" xml:space="preserve">
+    <value>This mailbox will become your email address and will receive message from our platform</value>
+  </data>
+  <data name="page_settingsetting_updatepaddword" xml:space="preserve">
+    <value>Update password</value>
+  </data>
+  <data name="page_settingsetting_passwordreg" xml:space="preserve">
+    <value>You are changing your password. It must be 8-20 digits of English letters, numbers or symbols.</value>
+  </data>
+  <data name="page_settingsetting_password" xml:space="preserve">
+    <value>Current login password</value>
+  </data>
+  <data name="page_settingsetting_newpassword" xml:space="preserve">
+    <value>New password</value>
+  </data>
+  <data name="page_settingsetting_subnewpassword" xml:space="preserve">
+    <value>Confirm new login password</value>
+  </data>
+  <data name="page_settingsetting_updatecell" xml:space="preserve">
+    <value>Modify the secret mobile number</value>
+  </data>
+  <data name="page_settingsetting_smscode" xml:space="preserve">
+    <value>You are using "SMS Verification"</value>
+  </data>
+  <data name="alert_settingsetting_oldpassword" xml:space="preserve">
+    <value>Current password cannot be empty</value>
+  </data>
+  <data name="alert_settingsetting_passwordnosame" xml:space="preserve">
+    <value>Password not matched</value>
+  </data>
+  <data name="alert_settingsetting_errorpassword" xml:space="preserve">
+    <value>The original password was entered incorrectly.</value>
+  </data>
+  <data name="page_settingsetting_strong" xml:space="preserve">
+    <value>Strong</value>
+  </data>
+  <data name="page_settingsetting_strongpassword" xml:space="preserve">
+    <value>Current password strength</value>
+  </data>
+  <data name="page_settingsetting_bindcell" xml:space="preserve">
+    <value>Mobile phone</value>
+  </data>
+  <data name="page_settingsetting_bindemail" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="send_settingsetting_updateemail" xml:space="preserve">
+    <value>Locus update email</value>
+  </data>
+  <data name="send_settingsetting_emailcode" xml:space="preserve">
+    <value>Hello, your email verification code is {0}</value>
+  </data>
+  <data name="page_settingsetting_updatebindemail" xml:space="preserve">
+    <value>Modify the mailbox binding</value>
+  </data>
+  <data name="page_settingsetting_emailvaild" xml:space="preserve">
+    <value>You are using "Mailbox Verification"</value>
+  </data>
+  <data name="page_settingsetting_nowcell" xml:space="preserve">
+    <value>Current mobile phone</value>
+  </data>
+  <data name="page_settingsetting_nowemail" xml:space="preserve">
+    <value>Current email</value>
+  </data>
+  <data name="page_settingsetting_getcode" xml:space="preserve">
+    <value>Get code</value>
+  </data>
+  <data name="page_settingsetting_sendcode" xml:space="preserve">
+    <value>The verification code has been sent, please check your mailbox!</value>
+  </data>
+  <data name="page_settingsetting_updatecellphone" xml:space="preserve">
+    <value>Modify the mobile phone</value>
+  </data>
+  <data name="page_superadminindex_applytrend" xml:space="preserve">
+    <value>Application volume trend</value>
+  </data>
+  <data name="alert_uploadimg_notfile" xml:space="preserve">
+    <value>No file</value>
+  </data>
+  <data name="alert_uploadimg_failure" xml:space="preserve">
+    <value>Upload failed</value>
+  </data>
+  <data name="alert_settingsetting_emailrepeat" xml:space="preserve">
+    <value>The new mailbox cannot be the same as the original mailbox</value>
+  </data>
+  <data name="alert_settingsetting_cellrepeat" xml:space="preserve">
+    <value>The new phone number cannot be the same as the original phone number</value>
+  </data>
+  <data name="btn_update" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="page_usercreate_updateimg" xml:space="preserve">
+    <value>Change image</value>
+  </data>
+  <data name="page_superadminhomeindex_month" xml:space="preserve">
+    <value>Month</value>
+  </data>
+  <data name="btn_back" xml:space="preserve">
+    <value>Return</value>
+  </data>
+  <data name="alert_uploadimg_ok" xml:space="preserve">
+    <value>Upload success</value>
+  </data>
+  <data name="title_userlist" xml:space="preserve">
+    <value>User List</value>
+  </data>
+  <data name="title_useradd" xml:space="preserve">
+    <value>Edit user account</value>
+  </data>
+  <data name="title_hospitaladd" xml:space="preserve">
+    <value>Edit hospital</value>
+  </data>
+  <data name="title_doctoradd" xml:space="preserve">
+    <value>Edit doctor</value>
+  </data>
+  <data name="title_doctordetail" xml:space="preserve">
+    <value>Doctor detail</value>
+  </data>
+  <data name="list_valid_disablebtn" xml:space="preserve">
+    <value>Disable</value>
+  </data>
+  <data name="list_valid_normalbtn" xml:space="preserve">
+    <value>Enable</value>
+  </data>
+  <data name="page_superadminindex_selyear" xml:space="preserve">
+    <value>Year</value>
+  </data>
+  <data name="alert_configAddconfig_titlerepeat" xml:space="preserve">
+    <value>Duplicate name, please re-enter</value>
+  </data>
+  <data name="page_homelogin_title" xml:space="preserve">
+    <value>LOCUS Medical Image Cloud Platform</value>
+  </data>
+  <data name="alert_usercreate_idcardrepeat" xml:space="preserve">
+    <value>Duplicate ID number</value>
+  </data>
+  <data name="page_hospitalindx_name" xml:space="preserve">
+    <value>Hospital account</value>
+  </data>
+  <data name="page_hospitalindex_doctstatic" xml:space="preserve">
+    <value>Work statistics of sub hospital</value>
+  </data>
+  <data name="list_people" xml:space="preserve">
+    <value>Principal</value>
+  </data>
+  <data name="list_cell" xml:space="preserve">
+    <value>Contact no.</value>
+  </data>
+  <data name="page_settinghospital_hospinfo" xml:space="preserve">
+    <value>Hospital info</value>
+  </data>
+  <data name="alert_common_success" xml:space="preserve">
+    <value>Success!</value>
+  </data>
+  <data name="alert_docotrcreate_phone" xml:space="preserve">
+    <value>Please enter the correct phone number</value>
+  </data>
+  <data name="alert_doctorcreate_peoareaphone" xml:space="preserve">
+    <value>The responsible person's telephone area code cannot be empty</value>
+  </data>
+  <data name="alert_doctorcreate_peophone" xml:space="preserve">
+    <value>The responsible person's phone number cannot be empty</value>
+  </data>
+  <data name="alert_homeforget_peophoneformat" xml:space="preserve">
+    <value>The responsible person's phone number format is incorrect</value>
+  </data>
+  <data name="list_create" xml:space="preserve">
+    <value>Created time</value>
+  </data>
+  <data name="list_phone" xml:space="preserve">
+    <value>Phone no.</value>
+  </data>
+  <data name="page_patientlist_create" xml:space="preserve">
+    <value>New patient</value>
+  </data>
+  <data name="page_patientlist_look" xml:space="preserve">
+    <value>Detail</value>
+  </data>
+  <data name="page_patientlist_initiate" xml:space="preserve">
+    <value>New consultation</value>
+  </data>
+  <data name="common_male" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="common_female" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="page_hospitalindex_rankingconsult" xml:space="preserve">
+    <value>Top 10 Consultations</value>
+  </data>
+  <data name="page_hospitalindex_rankingapply" xml:space="preserve">
+    <value>Top 10 Applications</value>
+  </data>
+  <data name="alert_patientcreate_validname" xml:space="preserve">
+    <value>Patient name is required</value>
+  </data>
+  <data name="alert_patientcreate_validcell" xml:space="preserve">
+    <value>Patient mobile number is required</value>
+  </data>
+  <data name="alert_patientcreate_validinsure" xml:space="preserve">
+    <value>Insurance number format is incorrect</value>
+  </data>
+  <data name="alert_patientcreate_validbirth" xml:space="preserve">
+    <value>Patient birth date is required</value>
+  </data>
+  <data name="alert_patientcreate_validpid" xml:space="preserve">
+    <value>Patient id is required</value>
+  </data>
+  <data name="alert_patientcreate_validpidsame" xml:space="preserve">
+    <value>Patient id already exists. Please re-enter.</value>
+  </data>
+  <data name="alert_patientcreate_nodicom" xml:space="preserve">
+    <value>There is no Dicom organization code</value>
+  </data>
+  <data name="alert_patientcreate_nopidinfo" xml:space="preserve">
+    <value>There is no information found via pid</value>
+  </data>
+  <data name="title_patientcreate" xml:space="preserve">
+    <value>Edit patient</value>
+  </data>
+  <data name="page_patientcreate_relate" xml:space="preserve">
+    <value>Relate</value>
+  </data>
+  <data name="page_patientcreate_relatetips" xml:space="preserve">
+    <value>Relate exits HIS/RIS information via PID</value>
+  </data>
+  <data name="page_patientcreate_pid" xml:space="preserve">
+    <value>Patient ID</value>
+  </data>
+  <data name="page_patientcreate_getinfo" xml:space="preserve">
+    <value>Get medical record</value>
+  </data>
+  <data name="page_patientcreate_baseinfo" xml:space="preserve">
+    <value>Basic info</value>
+  </data>
+  <data name="page_patientcreate_patientname" xml:space="preserve">
+    <value>Patient name</value>
+  </data>
+  <data name="page_patientcreate_namespell" xml:space="preserve">
+    <value>Spell of name</value>
+  </data>
+  <data name="common_gender" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="page_patientcreate_cellphone" xml:space="preserve">
+    <value>Mobile phone</value>
+  </data>
+  <data name="page_patientcreate_idnum" xml:space="preserve">
+    <value>ID number</value>
+  </data>
+  <data name="common_race" xml:space="preserve">
+    <value>Ethnic group</value>
+  </data>
+  <data name="page_patientcreate_insurenum" xml:space="preserve">
+    <value>Insurance number</value>
+  </data>
+  <data name="page_patientcreate_insuretips" xml:space="preserve">
+    <value>Please fill in the correct card number</value>
+  </data>
+  <data name="page_patientcreate_birth" xml:space="preserve">
+    <value>Birth date</value>
+  </data>
+  <data name="common_marry" xml:space="preserve">
+    <value>Marriage status</value>
+  </data>
+  <data name="common_marry_unmarried" xml:space="preserve">
+    <value>Unmarried</value>
+  </data>
+  <data name="common_marry_married" xml:space="preserve">
+    <value>Married</value>
+  </data>
+  <data name="common_marry_divoced" xml:space="preserve">
+    <value>Divorced</value>
+  </data>
+  <data name="page_patientcreate_addr" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="common_tag" xml:space="preserve">
+    <value>Tag</value>
+  </data>
+  <data name="page_patientcreate_tagtips" xml:space="preserve">
+    <value>Please type tag content</value>
+  </data>
+  <data name="page_patientcreate_profile" xml:space="preserve">
+    <value>Profile</value>
+  </data>
+  <data name="page_patientcreate_inhospid" xml:space="preserve">
+    <value>Hospital admission number</value>
+  </data>
+  <data name="page_patientcreate_source" xml:space="preserve">
+    <value>Source</value>
+  </data>
+  <data name="page_patientcreate_source2" xml:space="preserve">
+    <value>Hospital admission</value>
+  </data>
+  <data name="page_patientcreate_source3" xml:space="preserve">
+    <value>Outpatient</value>
+  </data>
+  <data name="page_patientcreate_source1" xml:space="preserve">
+    <value>Body examination</value>
+  </data>
+  <data name="page_patientcreate_allergic" xml:space="preserve">
+    <value>Allergy</value>
+  </data>
+  <data name="common_none" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="page_patientcreate_infect" xml:space="preserve">
+    <value>Infectious disease</value>
+  </data>
+  <data name="page_patientcreate_illhistory" xml:space="preserve">
+    <value>Medical history</value>
+  </data>
+  <data name="common_tips" xml:space="preserve">
+    <value>Remarks</value>
+  </data>
+  <data name="common_race_Han" xml:space="preserve">
+    <value>Han</value>
+  </data>
+  <data name="common_race_Mongol" xml:space="preserve">
+    <value>Mongol</value>
+  </data>
+  <data name="common_race_Hui" xml:space="preserve">
+    <value>Hui</value>
+  </data>
+  <data name="common_race_Tibetan" xml:space="preserve">
+    <value>Tibetan</value>
+  </data>
+  <data name="common_race_Uyghur" xml:space="preserve">
+    <value>Uyghur</value>
+  </data>
+  <data name="common_race_Miao" xml:space="preserve">
+    <value>Miao</value>
+  </data>
+  <data name="common_yearsold" xml:space="preserve">
+    <value>Years old</value>
+  </data>
+  <data name="title_patientdetail" xml:space="preserve">
+    <value>Patient detail</value>
+  </data>
+  <data name="common_edit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="page_patientdetail_sendconsult" xml:space="preserve">
+    <value>Consult</value>
+  </data>
+  <data name="page_patientdetail_dicom" xml:space="preserve">
+    <value>DICOM profile</value>
+  </data>
+  <data name="list_detail" xml:space="preserve">
+    <value>Detail</value>
+  </data>
+  <data name="page_patientdetail_uploadtime" xml:space="preserve">
+    <value>Upload time</value>
+  </data>
+  <data name="page_patientdetail_body" xml:space="preserve">
+    <value>Body part</value>
+  </data>
+  <data name="page_patientdetail_dicomsource" xml:space="preserve">
+    <value>DICOM Source</value>
+  </data>
+  <data name="page_patientdetail_conslist" xml:space="preserve">
+    <value>Consultation record</value>
+  </data>
+  <data name="page_patientdetail_status1" xml:space="preserve">
+    <value>Applied</value>
+  </data>
+  <data name="page_patientdetail_status2" xml:space="preserve">
+    <value>Canceled</value>
+  </data>
+  <data name="page_patientdetail_status3" xml:space="preserve">
+    <value>Approved</value>
+  </data>
+  <data name="page_patientdetail_status4" xml:space="preserve">
+    <value>Refused</value>
+  </data>
+  <data name="page_patientdetail_status5" xml:space="preserve">
+    <value>Reported</value>
+  </data>
+  <data name="page_patientdetail_status6" xml:space="preserve">
+    <value>Completed</value>
+  </data>
+  <data name="page_patientdetail.createtime" xml:space="preserve">
+    <value>Created time</value>
+  </data>
+  <data name="page_patientdetail_reportview" xml:space="preserve">
+    <value>View report</value>
+  </data>
+  <data name="page_patientdetail_doctorname" xml:space="preserve">
+    <value>Doctor name</value>
+  </data>
+  <data name="page_patientdetail_goal" xml:space="preserve">
+    <value>Purpose</value>
+  </data>
+  <data name="page_patientdetail_illhisnow" xml:space="preserve">
+    <value>Current medical status</value>
+  </data>
+  <data name="page_patientcreate_diagnose" xml:space="preserve">
+    <value>Initial diagnosis</value>
+  </data>
+  <data name="page_patientcreate_checkresult" xml:space="preserve">
+    <value>Check result</value>
+  </data>
+  <data name="common_race_Yi" xml:space="preserve">
+    <value>Yi</value>
+  </data>
+  <data name="common_race_Zhuang" xml:space="preserve">
+    <value>Zhuang</value>
+  </data>
+  <data name="common_race_Buyei" xml:space="preserve">
+    <value>Buyei</value>
+  </data>
+  <data name="common_race_Korean" xml:space="preserve">
+    <value>Korean</value>
+  </data>
+  <data name="common_race_Manchu" xml:space="preserve">
+    <value>Manchu</value>
+  </data>
+  <data name="common_race_Dong" xml:space="preserve">
+    <value>Dong</value>
+  </data>
+  <data name="common_race_Yao" xml:space="preserve">
+    <value>Yao</value>
+  </data>
+  <data name="common_race_Bai" xml:space="preserve">
+    <value>Bai</value>
+  </data>
+  <data name="common_race_Tujia" xml:space="preserve">
+    <value>Tujia</value>
+  </data>
+  <data name="common_race_Hani" xml:space="preserve">
+    <value>Hani</value>
+  </data>
+  <data name="common_race_Kazak" xml:space="preserve">
+    <value>Kazak</value>
+  </data>
+  <data name="common_race_Dai" xml:space="preserve">
+    <value>Dai</value>
+  </data>
+  <data name="common_race_Li" xml:space="preserve">
+    <value>Li</value>
+  </data>
+  <data name="common_race_Lisu" xml:space="preserve">
+    <value>Lisu</value>
+  </data>
+  <data name="common_race_Va" xml:space="preserve">
+    <value>Va</value>
+  </data>
+  <data name="common_race_She" xml:space="preserve">
+    <value>She</value>
+  </data>
+  <data name="common_race_Gaoshan" xml:space="preserve">
+    <value>Gaoshan</value>
+  </data>
+  <data name="common_race_Lahu" xml:space="preserve">
+    <value>Lahu</value>
+  </data>
+  <data name="common_race_Sui" xml:space="preserve">
+    <value>Sui</value>
+  </data>
+  <data name="common_race_Dongxiang" xml:space="preserve">
+    <value>Dongxiang</value>
+  </data>
+  <data name="common_race_Naxi" xml:space="preserve">
+    <value>Naxi</value>
+  </data>
+  <data name="common_race_Jingpo" xml:space="preserve">
+    <value>Jingpo</value>
+  </data>
+  <data name="common_race_Kirgiz" xml:space="preserve">
+    <value>Kirgiz</value>
+  </data>
+  <data name="common_race_Tu" xml:space="preserve">
+    <value>Tu</value>
+  </data>
+  <data name="common_race_Daur" xml:space="preserve">
+    <value>Daur</value>
+  </data>
+  <data name="common_race_Mulao" xml:space="preserve">
+    <value>Mulao</value>
+  </data>
+  <data name="common_race_Qiang" xml:space="preserve">
+    <value>Qiang</value>
+  </data>
+  <data name="common_race_Blang" xml:space="preserve">
+    <value>Blang</value>
+  </data>
+  <data name="common_race_Salar" xml:space="preserve">
+    <value>Salar</value>
+  </data>
+  <data name="common_race_Maonan" xml:space="preserve">
+    <value>Maonan</value>
+  </data>
+  <data name="common_race_Gelao" xml:space="preserve">
+    <value>Gelao</value>
+  </data>
+  <data name="common_race_Xibe" xml:space="preserve">
+    <value>Xibe</value>
+  </data>
+  <data name="common_race_Achang" xml:space="preserve">
+    <value>Achang</value>
+  </data>
+  <data name="common_race_Pumi" xml:space="preserve">
+    <value>Pumi</value>
+  </data>
+  <data name="common_race_Tajik" xml:space="preserve">
+    <value>Tajik</value>
+  </data>
+  <data name="common_race_Nu" xml:space="preserve">
+    <value>Nu</value>
+  </data>
+  <data name="common_race_Uzbek" xml:space="preserve">
+    <value>Uzbek</value>
+  </data>
+  <data name="common_race_Russians" xml:space="preserve">
+    <value>Russians</value>
+  </data>
+  <data name="common_race_Ewenki" xml:space="preserve">
+    <value>Ewenki</value>
+  </data>
+  <data name="common_race_Deang" xml:space="preserve">
+    <value>Deang</value>
+  </data>
+  <data name="common_race_Bonan" xml:space="preserve">
+    <value>Bonan</value>
+  </data>
+  <data name="common_race_Yugur" xml:space="preserve">
+    <value>Yugur</value>
+  </data>
+  <data name="common_race_Gin" xml:space="preserve">
+    <value>Gin</value>
+  </data>
+  <data name="common_race_Tatar" xml:space="preserve">
+    <value>Tatar</value>
+  </data>
+  <data name="common_race_Derung" xml:space="preserve">
+    <value>Derung</value>
+  </data>
+  <data name="common_race_Oroqen" xml:space="preserve">
+    <value>Oroqen</value>
+  </data>
+  <data name="common_race_Hezhen" xml:space="preserve">
+    <value>Hezhen</value>
+  </data>
+  <data name="common_race_Monba" xml:space="preserve">
+    <value>Monba</value>
+  </data>
+  <data name="common_race_Lhoba" xml:space="preserve">
+    <value>Lhoba</value>
+  </data>
+  <data name="common_race_Jino" xml:space="preserve">
+    <value>Jino</value>
+  </data>
+  <data name="common_province_Beijing" xml:space="preserve">
+    <value>Beijing</value>
+  </data>
+  <data name="common_province_Tianjin" xml:space="preserve">
+    <value>Tianjin</value>
+  </data>
+  <data name="common_province_Hebei" xml:space="preserve">
+    <value>Hebei</value>
+  </data>
+  <data name="common_province_Shanxi" xml:space="preserve">
+    <value>Shanxi</value>
+  </data>
+  <data name="common_province_Neimenggu" xml:space="preserve">
+    <value>Neimenggu</value>
+  </data>
+  <data name="common_province_Liaoning" xml:space="preserve">
+    <value>Liaoning</value>
+  </data>
+  <data name="common_province_Jilin" xml:space="preserve">
+    <value>Jilin</value>
+  </data>
+  <data name="common_province_Heilongjiang" xml:space="preserve">
+    <value>Heilongjiang</value>
+  </data>
+  <data name="common_province_Shanghai" xml:space="preserve">
+    <value>Shanghai</value>
+  </data>
+  <data name="common_province_Jiangsu" xml:space="preserve">
+    <value>Jiangsu</value>
+  </data>
+  <data name="common_province_Zhejiang" xml:space="preserve">
+    <value>Zhejiang</value>
+  </data>
+  <data name="common_province_Anhui" xml:space="preserve">
+    <value>Anhui</value>
+  </data>
+  <data name="common_province_Fujian" xml:space="preserve">
+    <value>Fujian</value>
+  </data>
+  <data name="common_province_Jiangxi" xml:space="preserve">
+    <value>Jiangxi</value>
+  </data>
+  <data name="common_province_Shandong" xml:space="preserve">
+    <value>Shandong</value>
+  </data>
+  <data name="common_province_Henan" xml:space="preserve">
+    <value>Henan</value>
+  </data>
+  <data name="common_province_Hubei" xml:space="preserve">
+    <value>Hubei</value>
+  </data>
+  <data name="common_province_Hunan" xml:space="preserve">
+    <value>Hunan</value>
+  </data>
+  <data name="common_province_Guangdong" xml:space="preserve">
+    <value>Guangdong</value>
+  </data>
+  <data name="common_province_Guangxi" xml:space="preserve">
+    <value>Guangxi</value>
+  </data>
+  <data name="common_province_Hainan" xml:space="preserve">
+    <value>Hainan</value>
+  </data>
+  <data name="common_province_Chongqing" xml:space="preserve">
+    <value>Chongqing</value>
+  </data>
+  <data name="common_province_Sichuan" xml:space="preserve">
+    <value>Sichuan</value>
+  </data>
+  <data name="common_province_Guizhou" xml:space="preserve">
+    <value>Guizhou</value>
+  </data>
+  <data name="common_province_Yunnan" xml:space="preserve">
+    <value>Yunnan</value>
+  </data>
+  <data name="common_province_Xizang" xml:space="preserve">
+    <value>Xizang</value>
+  </data>
+  <data name="common_province_Shaanxi" xml:space="preserve">
+    <value>Shaanxi</value>
+  </data>
+  <data name="common_province_Gansu" xml:space="preserve">
+    <value>Gansu</value>
+  </data>
+  <data name="common_province_Qinghai" xml:space="preserve">
+    <value>Qinghai</value>
+  </data>
+  <data name="common_province_Ningxia" xml:space="preserve">
+    <value>Ningxia</value>
+  </data>
+  <data name="common_province_Xinjiang" xml:space="preserve">
+    <value>Xinjiang</value>
+  </data>
+  <data name="common_province_HK-MACAU-TW" xml:space="preserve">
+    <value>HK-MACAU-TW</value>
+  </data>
+  <data name="common_city_Dongcheng" xml:space="preserve">
+    <value>Dongcheng</value>
+  </data>
+  <data name="common_city_Xicheng" xml:space="preserve">
+    <value>Xicheng</value>
+  </data>
+  <data name="common_city_Chaoyang" xml:space="preserve">
+    <value>Chaoyang</value>
+  </data>
+  <data name="common_city_Fengtai" xml:space="preserve">
+    <value>Fengtai</value>
+  </data>
+  <data name="common_city_Shijingshan" xml:space="preserve">
+    <value>Shijingshan</value>
+  </data>
+  <data name="common_city_Haidian" xml:space="preserve">
+    <value>Haidian</value>
+  </data>
+  <data name="common_city_Mentougou" xml:space="preserve">
+    <value>Mentougou</value>
+  </data>
+  <data name="common_city_Fangshan" xml:space="preserve">
+    <value>Fangshan</value>
+  </data>
+  <data name="common_city_Tongzhou" xml:space="preserve">
+    <value>Tongzhou</value>
+  </data>
+  <data name="common_city_Shunyi" xml:space="preserve">
+    <value>Shunyi</value>
+  </data>
+  <data name="common_city_Changping" xml:space="preserve">
+    <value>Changping</value>
+  </data>
+  <data name="common_city_Daxing" xml:space="preserve">
+    <value>Daxing</value>
+  </data>
+  <data name="common_city_Huairou" xml:space="preserve">
+    <value>Huairou</value>
+  </data>
+  <data name="common_city_Pinggu" xml:space="preserve">
+    <value>Pinggu</value>
+  </data>
+  <data name="common_city_Miyun" xml:space="preserve">
+    <value>Miyun</value>
+  </data>
+  <data name="common_city_Yanqing" xml:space="preserve">
+    <value>Yanqing</value>
+  </data>
+  <data name="common_consultstatus_normal" xml:space="preserve">
+    <value>Submitted</value>
+  </data>
+  <data name="common_consultstatus_resubmit" xml:space="preserve">
+    <value>Resubmitted</value>
+  </data>
+  <data name="common_consultstatus_canceled" xml:space="preserve">
+    <value>Canceled</value>
+  </data>
+  <data name="common_consultstatus_approved" xml:space="preserve">
+    <value>Approved</value>
+  </data>
+  <data name="common_consultstatus_refused" xml:space="preserve">
+    <value>Refused</value>
+  </data>
+  <data name="common_consultstatus_reported" xml:space="preserve">
+    <value>Reported</value>
+  </data>
+  <data name="common_consultstatus_done" xml:space="preserve">
+    <value>Completed</value>
+  </data>
+  <data name="common_messagetype_consultnew" xml:space="preserve">
+    <value>New Consult</value>
+  </data>
+  <data name="common_messagetype_consultrefuse" xml:space="preserve">
+    <value>Refuse consult</value>
+  </data>
+  <data name="common_messagetype_consultaccept" xml:space="preserve">
+    <value>Accept consult</value>
+  </data>
+  <data name="common_messagetype_consultreport" xml:space="preserve">
+    <value>Consult report</value>
+  </data>
+  <data name="common_messagetype_consultdone" xml:space="preserve">
+    <value>Evaluation</value>
+  </data>
+  <data name="common_messagetype_conew" xml:space="preserve">
+    <value>New cooperation</value>
+  </data>
+  <data name="common_messagetype_coreply" xml:space="preserve">
+    <value>Reply coperation</value>
+  </data>
+  <data name="common_messagetype_codone" xml:space="preserve">
+    <value>Feedback</value>
+  </data>
+  <data name="title_consultnew" xml:space="preserve">
+    <value>New consult</value>
+  </data>
+  <data name="page_consultnew_title" xml:space="preserve">
+    <value>New consult</value>
+  </data>
+  <data name="page_consultnew_urgent" xml:space="preserve">
+    <value>Urgent</value>
+  </data>
+  <data name="page_consultnew_purpose" xml:space="preserve">
+    <value>Purpose</value>
+  </data>
+  <data name="page_consultnew_illhistory" xml:space="preserve">
+    <value>Medical history</value>
+  </data>
+  <data name="page_consultnew_diagnose" xml:space="preserve">
+    <value>Initial diagnosis</value>
+  </data>
+  <data name="page_consultnew_result" xml:space="preserve">
+    <value>Auxiliary check result</value>
+  </data>
+  <data name="btn_upload" xml:space="preserve">
+    <value>Upload</value>
+	</data>
+  <data name="btn_uploading" xml:space="preserve">
+    <value>Uploading</value>
+  </data>
+  <data name="btn_delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="page_consultnew_extension" xml:space="preserve">
+    <value>Supported extentions</value>
+  </data>
+  <data name="page_consultnew_dicom" xml:space="preserve">
+    <value>Associate DICOM image</value>
+  </data>
+  <data name="page_consultnew_relate" xml:space="preserve">
+    <value>Relate</value>
+  </data>
+  <data name="page_consultnew_dicomselect" xml:space="preserve">
+    <value>Please select the relate dicom picture</value>
+  </data>
+  <data name="page_consultnew_adddoctor" xml:space="preserve">
+    <value>Select doctor</value>
+  </data>
+  <data name="page_consultnew_adddocttext" xml:space="preserve">
+    <value>You may get opinion from the selected doctor</value>
+  </data>
+  <data name="page_consultnew_btnadddoct1" xml:space="preserve">
+    <value>Invite</value>
+  </data>
+  <data name="page_consultnew_btnadddoct2" xml:space="preserve">
+    <value>Change</value>
+  </data>
+  <data name="page_consultnew_submit" xml:space="preserve">
+    <value>Submit consult</value>
+  </data>
+  <data name="page_consultnew_anonymous" xml:space="preserve">
+    <value>Anonymous patient info</value>
+  </data>
+  <data name="page_consultnew_selectdoct" xml:space="preserve">
+    <value>Please select doctor</value>
+  </data>
+  <data name="alert_consultnew_doctor" xml:space="preserve">
+    <value>Please invite doctor</value>
+  </data>
+  <data name="page_consultnew_selected" xml:space="preserve">
+    <value>Selected doctor</value>
+  </data>
+  <data name="alert_consultnew_purpose" xml:space="preserve">
+    <value>Please fill the purpose</value>
+  </data>
+  <data name="page_consultnew_feetext" xml:space="preserve">
+    <value>Yuan per once</value>
+  </data>
+  <data name="title_consultlist" xml:space="preserve">
+    <value>Initiated consultation</value>
+  </data>
+  <data name="page_consultlist_patientname" xml:space="preserve">
+    <value>Patient name</value>
+  </data>
+  <data name="common_input" xml:space="preserve">
+    <value>Please type </value>
+  </data>
+  <data name="page_consultlist_status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="page_consultlist_hosp" xml:space="preserve">
+    <value>Hospital</value>
+  </data>
+  <data name="common_keyword" xml:space="preserve">
+    <value>Keyword</value>
+  </data>
+  <data name="page_consultlist_applydate" xml:space="preserve">
+    <value>Application date</value>
+  </data>
+  <data name="common_today" xml:space="preserve">
+    <value>Today</value>
+  </data>
+  <data name="common_day2" xml:space="preserve">
+    <value>Past 2 days</value>
+  </data>
+  <data name="common_week" xml:space="preserve">
+    <value>Past week</value>
+  </data>
+  <data name="list_tag" xml:space="preserve">
+    <value>Tag</value>
+  </data>
+  <data name="list_invitedoct" xml:space="preserve">
+    <value>Invited</value>
+  </data>
+  <data name="list_invitehosp" xml:space="preserve">
+    <value>Hospital</value>
+  </data>
+  <data name="list_patientname" xml:space="preserve">
+    <value>Patient</value>
+  </data>
+  <data name="list_consultcancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="list_room" xml:space="preserve">
+    <value>Enter</value>
+  </data>
+  <data name="list_reapply" xml:space="preserve">
+    <value>Re-apply</value>
+  </data>
+  <data name="list_report" xml:space="preserve">
+    <value>View report</value>
+  </data>
+  <data name="list_evaluate" xml:space="preserve">
+    <value>Evaluate</value>
+  </data>
+  <data name="common_type5" xml:space="preserve">
+    <value>Please type 5 characters at least</value>
+  </data>
+  <data name="page_consultlist_feedback" xml:space="preserve">
+    <value>Feedback</value>
+  </data>
+  <data name="page_consultlist_star" xml:space="preserve">
+    <value>Evaluate</value>
+  </data>
+  <data name="alert_consultlist_type5" xml:space="preserve">
+    <value>Please type 5 characters for comment at least</value>
+  </data>
+  <data name="alert_consultlist_star" xml:space="preserve">
+    <value>Please select the star to evaluate our service</value>
+  </data>
+  <data name="title_consultreceive" xml:space="preserve">
+    <value>Received consultation</value>
+  </data>
+  <data name="page_consultreceived_todo" xml:space="preserve">
+    <value>Untreated</value>
+  </data>
+  <data name="page_consultreceived_todotext" xml:space="preserve">
+    <value>Tasks</value>
+  </data>
+  <data name="page_consultreceived_completedweek" xml:space="preserve">
+    <value>Completed in this week</value>
+  </data>
+  <data name="page_consultreceived_total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="list_applydoct" xml:space="preserve">
+    <value>Doctor applied</value>
+  </data>
+  <data name="list_agree" xml:space="preserve">
+    <value>Accept</value>
+  </data>
+  <data name="list_refuse" xml:space="preserve">
+    <value>Refuse</value>
+  </data>
+  <data name="list_newco" xml:space="preserve">
+    <value>New collaboration</value>
+  </data>
+  <data name="page_consultreceived_accept" xml:space="preserve">
+    <value>Accept consult</value>
+  </data>
+  <data name="page_consultreceived_acceptno" xml:space="preserve">
+    <value>consultations has been arranged during this time period. Please choose another time slot</value>
+  </data>
+  <data name="page_consultreceived_time" xml:space="preserve">
+    <value>Arrange at</value>
+  </data>
+  <data name="page_consultreceived_unconsult" xml:space="preserve">
+    <value>Consultations</value>
+  </data>
+  <data name="page_consultreceived_begin" xml:space="preserve">
+    <value>Start time</value>
+  </data>
+  <data name="page_consultreceived_inviteco" xml:space="preserve">
+    <value>Invite doctor for collaboration</value>
+  </data>
+  <data name="page_consultreceived_selectinvite" xml:space="preserve">
+    <value>Please select doctor</value>
+  </data>
+  <data name="alert_consultreceived_time" xml:space="preserve">
+    <value>Please choose consultion time</value>
+  </data>
+  <data name="alert_consultreceived_choosedoct" xml:space="preserve">
+    <value>Please choose collaboration doctor</value>
+  </data>
+  <data name="alert_consultreceived_choosen" xml:space="preserve">
+    <value>Collaboration doctor selected</value>
+  </data>
+  <data name="title_consultcomingup" xml:space="preserve">
+    <value>Consultation list</value>
+  </data>
+  <data name="page_consultcomingup_list" xml:space="preserve">
+    <value>Task list</value>
+  </data>
+  <data name="common_tomorrow" xml:space="preserve">
+    <value>Tomorrow</value>
+  </data>
+  <data name="common_day3" xml:space="preserve">
+    <value>Within 3 days</value>
+  </data>
+  <data name="page_consultcomingup_do" xml:space="preserve">
+    <value>Please follow up</value>
+  </data>
+  <data name="list_begintime" xml:space="preserve">
+    <value>Start time</value>
+  </data>
+  <data name="list_expired" xml:space="preserve">
+    <value>Expired</value>
+  </data>
+  <data name="list_left" xml:space="preserve">
+    <value>Remain</value>
+  </data>
+  <data name="list_day" xml:space="preserve">
+    <value>Days</value>
+  </data>
+  <data name="list_hour" xml:space="preserve">
+    <value>Hours</value>
+  </data>
+  <data name="list_minute" xml:space="preserve">
+    <value>Minutes</value>
+  </data>
+  <data name="page_consultcomingup_selectedco" xml:space="preserve">
+    <value>Choosen collaboration doctor</value>
+  </data>
+  <data name="page_consultcomingup_selectco" xml:space="preserve">
+    <value>Please choose collabortion doctor</value>
+  </data>
+  <data name="page_settingdoctor_fee" xml:space="preserve">
+    <value>Fee</value>
+  </data>
+  <data name="page_settingdoctor_ratio" xml:space="preserve">
+    <value>Ratio</value>
+  </data>
+  <data name="page_settingdoctor_dept" xml:space="preserve">
+    <value>Department</value>
+  </data>
+  <data name="page_settingdoctor_post" xml:space="preserve">
+    <value>Job title</value>
+  </data>
+  <data name="page_settingdoctor_info" xml:space="preserve">
+    <value>Profile</value>
+  </data>
+  <data name="page_settingdoctor_qualif" xml:space="preserve">
+    <value>Certificate</value>
+  </data>
+  <data name="title_messagelist" xml:space="preserve">
+    <value>Message list</value>
+  </data>
+  <data name="list_date" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="list_tagreaded" xml:space="preserve">
+    <value>Mark as read</value>
+  </data>
+  <data name="list_allreaded" xml:space="preserve">
+    <value>Set all read</value>
+  </data>
+  <data name="list_deleteall" xml:space="preserve">
+    <value>Delete selected</value>
+  </data>
+  <data name="list_selectedtext1" xml:space="preserve">
+    <value>Selected</value>
+  </data>
+  <data name="list_selectedtext2" xml:space="preserve">
+    <value>datas</value>
+  </data>
+  <data name="alert_messagelist_delete" xml:space="preserve">
+    <value>Are you sure to delete this message</value>
+  </data>
+  <data name="list_title" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="list_type" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="list_readed" xml:space="preserve">
+    <value>Read</value>
+  </data>
+  <data name="list_unread" xml:space="preserve">
+    <value>Unread</value>
+  </data>
+  <data name="alert_message_select" xml:space="preserve">
+    <value>Please choose data</value>
+  </data>
+  <data name="alert_message_tag" xml:space="preserve">
+    <value>Are you sure to tag all the selected data as read</value>
+  </data>
+  <data name="title_colist" xml:space="preserve">
+    <value>Sent collaboration</value>
+  </data>
+  <data name="list_list" xml:space="preserve">
+    <value>Task list</value>
+  </data>
+  <data name="common_yesterday" xml:space="preserve">
+    <value>Yesterday</value>
+  </data>
+  <data name="page_colist_text" xml:space="preserve">
+    <value>Please follow up</value>
+  </data>
+  <data name="list_patientfrom" xml:space="preserve">
+    <value>Patient source</value>
+  </data>
+  <data name="list_patientinfo" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="list_co" xml:space="preserve">
+    <value>Collaboration</value>
+  </data>
+  <data name="list_unreply" xml:space="preserve">
+    <value>Pending reply</value>
+  </data>
+  <data name="list_replied" xml:space="preserve">
+    <value>Replied</value>
+  </data>
+  <data name="list_tagged" xml:space="preserve">
+    <value>Tagged</value>
+  </data>
+  <data name="list_cocontent" xml:space="preserve">
+    <value>Collaboration info</value>
+  </data>
+  <data name="page_colist_longtext" xml:space="preserve">
+    <value>The opinion is for your reference only. Please consult your clinician for confirmation</value>
+  </data>
+  <data name="page_colist_best" xml:space="preserve">
+    <value>Marked your opinion as the best answer</value>
+  </data>
+  <data name="title_coreceived" xml:space="preserve">
+    <value>Received collaboration</value>
+  </data>
+  <data name="page_coreceived_untreat" xml:space="preserve">
+    <value>Untreated</value>
+  </data>
+  <data name="page_coreceived_tasks" xml:space="preserve">
+    <value>Tasks</value>
+  </data>
+  <data name="page_coreceived_treated" xml:space="preserve">
+    <value>Treated</value>
+  </data>
+  <data name="page_coreceived_tagged" xml:space="preserve">
+    <value>Tagged</value>
+  </data>
+  <data name="page_coreceived_tagtext" xml:space="preserve">
+    <value>Best answer marked by initiator</value>
+  </data>
+  <data name="page_coreceived_treattext" xml:space="preserve">
+    <value>Please follow up</value>
+  </data>
+  <data name="list_cosender" xml:space="preserve">
+    <value>Initiator</value>
+  </data>
+  <data name="list_status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="page_consult_receiverlist_ooperate" xml:space="preserve">
+    <value>Collaborated</value>
+  </data>
+  <data name="title_consulttransitionconsult" xml:space="preserve">
+    <value>Pending consultation list</value>
+  </data>
+  <data name="room_waitlist" xml:space="preserve">
+    <value>Pending consultation list</value>
+  </data>
+  <data name="room_exitconsultation" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="room_consultdoctor" xml:space="preserve">
+    <value>Consultant</value>
+  </data>
+  <data name="room_cooperate" xml:space="preserve">
+    <value>Collaboration</value>
+  </data>
+  <data name="room_open" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="room_carryout" xml:space="preserve">
+    <value>Finished</value>
+  </data>
+  <data name="room_thispatient" xml:space="preserve">
+    <value>Patient</value>
+  </data>
+  <data name="room_patientrecord" xml:space="preserve">
+    <value>Patient medical record</value>
+  </data>
+  <data name="room_dicom" xml:space="preserve">
+    <value>Dicom img</value>
+  </data>
+  <data name="room_auxiliarydata" xml:space="preserve">
+    <value>Auxiliary data</value>
+  </data>
+  <data name="room_addreport" xml:space="preserve">
+    <value>Add report</value>
+  </data>
+  <data name="room_lookreport" xml:space="preserve">
+    <value>View report</value>
+  </data>
+  <data name="room_step" xml:space="preserve">
+    <value>Step-by-step process</value>
+  </data>
+  <data name="room_submitapplication" xml:space="preserve">
+    <value>Submit application</value>
+  </data>
+  <data name="room_consulttime" xml:space="preserve">
+    <value>Consultation time</value>
+  </data>
+  <data name="room_waitconsult" xml:space="preserve">
+    <value>Waiting for consultation</value>
+  </data>
+  <data name="room_reporttime" xml:space="preserve">
+    <value>Report time</value>
+  </data>
+  <data name="room_reviewed" xml:space="preserve">
+    <value>Reviwed</value>
+  </data>
+  <data name="room_to" xml:space="preserve">
+    <value>To</value>
+  </data>
+  <data name="room_upload" xml:space="preserve">
+    <value>Upload</value>
+  </data>
+  <data name="room_imagesequence" xml:space="preserve">
+    <value>Group image inspection sequence</value>
+  </data>
+  <data name="room_click" xml:space="preserve">
+    <value>Click to view</value>
+  </data>
+  <data name="room_nomaterials" xml:space="preserve">
+    <value>No auxiliary materials</value>
+  </data>
+  <data name="room_locus" xml:space="preserve">
+    <value>Locus Medical Image Cloud Platform</value>
+  </data>
+  <data name="room_addcooperate" xml:space="preserve">
+    <value>Add comment</value>
+  </data>
+  <data name="room_content" xml:space="preserve">
+    <value>Content</value>
+  </data>
+  <data name="room_nocooperate" xml:space="preserve">
+    <value>No comment</value>
+  </data>
+  <data name="room_cooperatereference" xml:space="preserve">
+    <value>Collaborative opinions are only for your reference. Please see your doctor for final diagnosis!</value>
+  </data>
+  <data name="alert_failure" xml:space="preserve">
+    <value>Submission Failed</value>
+  </data>
+  <data name="room_waitcooperate" xml:space="preserve">
+    <value>Collaboration list</value>
+  </data>
+  <data name="room_lookcooperate" xml:space="preserve">
+    <value>View comment</value>
+  </data>
+  <data name="report_template" xml:space="preserve">
+    <value>Report template</value>
+  </data>
+  <data name="report_report" xml:space="preserve">
+    <value>Image report</value>
+  </data>
+  <data name="report_see" xml:space="preserve">
+    <value>Seen from the image</value>
+  </data>
+  <data name="report_conclusion" xml:space="preserve">
+    <value>Image conclusion</value>
+  </data>
+  <data name="report_remark" xml:space="preserve">
+    <value>Report note</value>
+  </data>
+  <data name="report_save" xml:space="preserve">
+    <value>Save Report</value>
+  </data>
+  <data name="report_doctor" xml:space="preserve">
+    <value>Report doctor</value>
+  </data>
+  <data name="report_submit" xml:space="preserve">
+    <value>Submit report</value>
+  </data>
+  <data name="report_edit" xml:space="preserve">
+    <value>Modify report</value>
+  </data>
+  <data name="report_savereport" xml:space="preserve">
+    <value>Save template</value>
+  </data>
+  <data name="report_historyreport" xml:space="preserve">
+    <value>Historical report</value>
+  </data>
+  <data name="report_lookreport" xml:space="preserve">
+    <value>View report</value>
+  </data>
+  <data name="report_comparison" xml:space="preserve">
+    <value>Comparison report</value>
+  </data>
+  <data name="report_share" xml:space="preserve">
+    <value>Report</value>
+  </data>
+  <data name="report_nohistoryreport" xml:space="preserve">
+    <value>No historical report</value>
+  </data>
+  <data name="report_imgreport" xml:space="preserve">
+    <value>Imaging consultation report</value>
+  </data>
+  <data name="report_reportdoctor" xml:space="preserve">
+    <value>Reporting clinician</value>
+  </data>
+  <data name="report_copy" xml:space="preserve">
+    <value>Copy visible</value>
+  </data>
+  <data name="report_diagnosis" xml:space="preserve">
+    <value>Imaging diagnosis</value>
+  </data>
+  <data name="report_copydiagnosis" xml:space="preserve">
+    <value>Copy diagnosis</value>
+  </data>
+  <data name="report_prompt" xml:space="preserve">
+    <value>This report is for reference only by the clinician. The final diagnosis is based on the clinician's opinion!</value>
+  </data>
+  <data name="report_content" xml:space="preserve">
+    <value>Please enter the content</value>
+  </data>
+  <data name="report_currentreport" xml:space="preserve">
+    <value>Current Report</value>
+  </data>
+  <data name="report_reporttemplate" xml:space="preserve">
+    <value>Personal report template</value>
+  </data>
+  <data name="report_group" xml:space="preserve">
+    <value>Grouping</value>
+  </data>
+  <data name="alert_report_diagnosis" xml:space="preserve">
+    <value>Image diagnosis cannot be empty</value>
+  </data>
+  <data name="alert_report_nodeduplicatename" xml:space="preserve">
+    <value>Duplicate name with peer node</value>
+  </data>
+  <data name="alert_success" xml:space="preserve">
+    <value>Submitted successfully</value>
+  </data>
+  <data name="alert_report_copy" xml:space="preserve">
+    <value>Content has been copied to the clipboard</value>
+  </data>
+  <data name="alert_report_selectreport" xml:space="preserve">
+    <value>Please select a report to compare</value>
+  </data>
+  <data name="alert_report_see" xml:space="preserve">
+    <value>The image can't be seen</value>
+  </data>
+  <data name="alert_report_conclusion" xml:space="preserve">
+    <value>Image conclusion cannot be empty</value>
+  </data>
+  <data name="report_personaltemplate" xml:space="preserve">
+    <value>Personal template</value>
+  </data>
+  <data name="report_nodepersonaltemplate" xml:space="preserve">
+    <value>Personal template root node</value>
+  </data>
+  <data name="report_comparedreport" xml:space="preserve">
+    <value>Image consultation report comparison</value>
+  </data>
+  <data name="report_close" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="report_print" xml:space="preserve">
+    <value>Report_print</value>
+  </data>
+  <data name="page_reportdemo_age" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="page_reportdemo_Identification" xml:space="preserve">
+    <value>Patient identification</value>
+  </data>
+  <data name="page_reportdemo_applicationtime" xml:space="preserve">
+    <value>Application time</value>
+  </data>
+  <data name="page_reportdemo_completetime" xml:space="preserve">
+    <value>Complete time</value>
+  </data>
+  <data name="page_reportdemo_application" xml:space="preserve">
+    <value>Apply for a doctor</value>
+  </data>
+  <data name="page_reportdemo_opinion" xml:space="preserve">
+    <value>Consult opinion</value>
+  </data>
+  <data name="page_report_expert" xml:space="preserve">
+    <value>Imaging Expert</value>
+  </data>
+  <data name="page_reportdemo_signature" xml:space="preserve">
+    <value>Electronic signature</value>
+  </data>
+  <data name="page_reportdemo_time" xml:space="preserve">
+    <value>Beijing time</value>
+  </data>
+  <data name="page_reportdemo_report" xml:space="preserve">
+    <value>Medical imaging consultation report</value>
+  </data>
+  <data name="alert_consultcooperate_opinion" xml:space="preserve">
+    <value>Collaborative opinions cannot be empty</value>
+  </data>
+  <data name="title_room" xml:space="preserve">
+    <value>Clinic room</value>
+  </data>
+  <data name="page_consultsend_nodoctor" xml:space="preserve">
+    <value>No consultation doctor</value>
+  </data>
+  <data name="page_patientcreate_deviceid" xml:space="preserve">
+    <value>Number for equipment inspection</value>
+  </data>
+  <data name="page_homefooter_foot" xml:space="preserve">
+    <value>Image Cloud Jing ICP:08008930</value>
+  </data>
+  <data name="video_indextext_sender" xml:space="preserve">
+    <value>Initiated</value>
+  </data>
+  <data name="video_indextext_receiver" xml:space="preserve">
+    <value>Consultation doctor</value>
+  </data>
+  <data name="room_cooperate_cooperatebest" xml:space="preserve">
+    <value>The opinion has been adopted and cannot be modified.</value>
+  </data>
+  <data name="room_more" xml:space="preserve">
+    <value>More</value>
+  </data>
+  <data name="alert_patient_create" xml:space="preserve">
+    <value>Date of birth is incorrect</value>
+  </data>
+  <data name="alert_upload_consultuploadimage" xml:space="preserve">
+    <value>There are {0} files that do not meet the rules and are blocked!</value>
+  </data>
+  <data name="page_consultsendconsult_retry" xml:space="preserve">
+    <value>Retry</value>
+  </data>
+  <data name="page_consultsendconsult_upload" xml:space="preserve">
+    <value>Upload DICOM image locally</value>
+  </data>
+  <data name="page_consultsendconsult_uploadtext1" xml:space="preserve">
+    <value>Please ensure that all files are uploaded successfully. If the upload fails, please execute</value>
+  </data>
+  <data name="page_consultsendconsult_know" xml:space="preserve">
+    <value>I know</value>
+  </data>
+  <data name="page_consultsendconsult_notification" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="page_consultsendconsult_thissuccess" xml:space="preserve">
+    <value>This upload is successful</value>
+  </data>
+  <data name="page_consultsendconsult_file" xml:space="preserve">
+    <value>Files, total</value>
+  </data>
+  <data name="page_consultsendconsult_documents" xml:space="preserve">
+    <value>Files</value>
+  </data>
+  <data name="page_consultsendconsult_waitupload" xml:space="preserve">
+    <value>DICOM image- to be uploaded</value>
+  </data>
+  <data name="page_consultsendconsult_delorreply" xml:space="preserve">
+    <value>Retry or delete</value>
+  </data>
+  <data name="page_consultsendconsult_startupload" xml:space="preserve">
+    <value>Start upload</value>
+  </data>
+  <data name="page_consultsendconsult_dealwith" xml:space="preserve">
+    <value>Please confirm and submit cloud PACS processing, estimated processing time</value>
+  </data>
+  <data name="page_consultsendconsult_total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="page_consultsendconsult_thisbrowser" xml:space="preserve">
+    <value>Currently browser does not support</value>
+  </data>
+  <data name="page_consultsendconsult_replyspacing" xml:space="preserve">
+    <value>Normal request spacing is not allowed to retry within 30 seconds</value>
+  </data>
+  <data name="page_consultsendconsult_selectfile" xml:space="preserve">
+    <value>Please select a folder to upload</value>
+  </data>
+  <data name="page_consultsendconsult_incorrectformat" xml:space="preserve">
+    <value>The file format is incorrect. Please reselect the file to upload.</value>
+  </data>
+  <data name="page_consultsendconsult_refresh" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="title_reportdemo" xml:space="preserve">
+    <value>ReportDemo</value>
+  </data>
+  <data name="page_consultsendconsult_summary" xml:space="preserve">
+    <value>Medical record summary</value>
+  </data>
+  <data name="alert_sendconsult_doctor" xml:space="preserve">
+    <value>do not match the superior doctor</value>
+  </data>
+  <data name="alert_hospitalcreate_associationhosp" xml:space="preserve">
+    <value>Please select the superior hospital to be associated</value>
+  </data>
+  <data name="list_receivingdoct" xml:space="preserve">
+    <value>Receiving doctor</value>
+  </data>
+  <data name="page_orderindex_record" xml:space="preserve">
+    <value>View Records</value>
+  </data>
+  <data name="page_orderindex_consultcount" xml:space="preserve">
+    <value>List of all initiated consultations</value>
+  </data>
+  <data name="page_hospitaldetails_founder" xml:space="preserve">
+    <value>Founder</value>
+  </data>
+  <data name="page_orderhospindex_type" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="page_orderhospindex_consultcount" xml:space="preserve">
+    <value>List of all initiated/received consultations</value>
+  </data>
+  <data name="page_ordermedicalrecord_exit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="alert_consultsendconsult_pid" xml:space="preserve">
+    <value>This PID has been associated with other patients. You cannot use the same PID to initiate consultation for different patients. If you have any questions, please contact the platform operation and maintenance team: 400-813-1118</value>
+  </data>
+  <data name="alert_consultsendconsult_pidempty" xml:space="preserve">
+    <value>Pid can't be empty, please fill in Pid</value>
+  </data>
+  <data name="menu_order" xml:space="preserve">
+    <value>Order List</value>
+  </data>
+  <data name="list_classification_nameen" xml:space="preserve">
+    <value>English Name</value>
+  </data>
+</root>
